@@ -1,0 +1,31 @@
+{
+  "schema": "gerarion-export-manifest/1",
+  "module": "gt-tcj",
+  "version": "3.2.2",
+  "maturity": "stable",
+  "source_repo": "verared/gerarion",
+  "source_tag": "v3.2.2",
+  "source_commit": "322a650bd6bced29492fdb2e4dd1113828421ebe",
+  "dependencies": {
+    "gt-core": ">=3.2.0,<4.0.0"
+  },
+  "files": {
+    "LICENSE": "5100ec704387838d4b95d6fd6a98d82fe8ee918e470994440c44801cd66b0cd0",
+    "LICENSES/Apache-2.0.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "LICENSES/CC-BY-4.0.txt": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+    "LICENSES/CC0-1.0.txt": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+    "LICENSES/MIT.txt": "757fbdb81df81bd060d17276424bd4fc26269e780599988c3ce8fba4260b0b20",
+    "NOTICE": "6af3a8bb6fe83f1b2d2f3d76528ab1f2b8e56da842c1de81673385821513e835",
+    "README.es.md": "9ccd571e59f531fc81e7b0ad3fb8bf4f7af2d141f287beaf7502d8bc39d24803",
+    "README.md": "d7f4848ad02214db2767a5839f7c382c48962648260f4f822c9870d36511445a",
+    "REUSE.toml": "d213d5b8428237ad361c2b9638fc520d00cfac7d4004c0d2193ee61e8f46ac28",
+    "docs/specs/TCJ.en.md": "de53c07f079f785d343ecfb74eae6b598669375006e94591f91158305947a403",
+    "docs/specs/TCJ.es.md": "713983338e5ca6f8bc4d12e0a0931c082ef12c89f87196ad985d06ca569cc175",
+    "impl-c/tai/gus_tai.c": "8686de8cdbfa8a2e3d49b132d116d8dae97c58fd8aedc9740885d319055d519d",
+    "impl-c/tai/gus_tai.h": "cf7415b9b2d6cdd51463ca3477ad7b7f2dd332261cd6bf7a9363524c383206b5",
+    "src/gerarion/tcj/__init__.py": "4f57ed9f03151ee260c6157e34dace01de16826089492239cbec68723f08ce8d",
+    "src/gerarion/tcj/tai.py": "902947a32c0acdc09195fb5df1d2d907eff66bceb319653e7133f56755468cd0",
+    "web/engine/tcj-tai.mjs": "5b1cb9bab7f845d43d9c01d7e4b0421343ba45351f8f11de5c675135509666c0",
+    "web/engine/zonas-tcj.mjs": "31a273ac86d30b3b9048076de696f607c5940a0c94dc8892e232cc85f7f6a553"
+  }
+}
